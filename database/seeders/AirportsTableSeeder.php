@@ -11,9 +11,38 @@ class AirportsTableSeeder extends Seeder
     public function run()
     {
         DB::table('airports')->insert([
-            ['code' => 'HAN', 'name' => 'Noi Bai International Airport', 'city' => 'Hanoi', 'country' => 'Vietnam', 'created_at' => Carbon::now(), 'updated_at' => Carbon::now()],
-            ['code' => 'SGN', 'name' => 'Tan Son Nhat International Airport', 'city' => 'Ho Chi Minh City', 'country' => 'Vietnam', 'created_at' => Carbon::now(), 'updated_at' => Carbon::now()],
-            ['code' => 'DAD', 'name' => 'Da Nang International Airport', 'city' => 'Da Nang', 'country' => 'Vietnam', 'created_at' => Carbon::now(), 'updated_at' => Carbon::now()],
+            [
+                'code' => 'HAN',
+                'name' => 'Noi Bai International Airport',
+                'city' => 'Hanoi',
+                'country' => 'Vietnam',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'code' => 'SGN',
+                'name' => 'Tan Son Nhat International Airport',
+                'city' => 'Ho Chi Minh City',
+                'country' => 'Vietnam',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'code' => 'DAD',
+                'name' => 'Da Nang International Airport',
+                'city' => 'Da Nang',
+                'country' => 'Vietnam',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
+            [
+                'code' => 'VCA',
+                'name' => 'Can Tho International Airport',
+                'city' => 'Can Tho',
+                'country' => 'Vietnam',
+                'created_at' => Carbon::now(),
+                'updated_at' => Carbon::now(),
+            ],
         ]);
     }
 }
