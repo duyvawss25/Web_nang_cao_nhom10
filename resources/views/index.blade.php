@@ -239,7 +239,7 @@
             
             <div class="deal-card">
                 <div class="deal-image">
-                    <img src="https://images.unsplash.com/photo-1534408812550-267c7e005187?w=600" alt="Singapore">
+                    <img src="https://a.travel-assets.com/findyours-php/viewfinder/images/res70/542000/542607-singapore.jpg" alt="Singapore">
                     <div class="deal-badge">Sale</div>
                 </div>
                 <div class="deal-content">
