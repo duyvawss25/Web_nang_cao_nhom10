@@ -273,7 +273,7 @@
             <div class="flight-item">
                 <div class="flight-route">
                     <div class="flight-airline">
-                        <img src="https://via.placeholder.com/40x40/FF0000/FFFFFF?text=VJ" alt="Vietjet Air" class="airline-logo">
+                        <img src="https://www.tripsavvy.com/thmb/-GZ-Zcf9aL7sTOMBNJy0osnlMis=/5472x3648/filters:no_upscale():max_bytes(150000):strip_icc()/thai-vietjet-air-flight-5a827c2e1f4e130037c8dc8d.jpg" alt="Vietjet Air" class="airline-logo">
                         <div class="airline-info">
                             <div class="airline-name">Vietjet Air</div>
                             <div class="flight-route-text">TP HCM (SGN) ↔️ Bangkok (BKK)</div>
@@ -292,7 +292,7 @@
             <div class="flight-item">
                 <div class="flight-route">
                     <div class="flight-airline">
-                        <img src="https://via.placeholder.com/40x40/FFA500/FFFFFF?text=SC" alt="Scoot" class="airline-logo">
+                        <img src="https://www.aerotime.aero/images/Scoot-Airline-Boeing-787-8-Dreamliner-1600x1000.jpg" alt="Scoot" class="airline-logo">
                         <div class="airline-info">
                             <div class="airline-name">Scoot</div>
                             <div class="flight-route-text">TP HCM (SGN) ↔️ Singapore (SIN)</div>
@@ -311,7 +311,7 @@
             <div class="flight-item">
                 <div class="flight-route">
                     <div class="flight-airline">
-                        <img src="https://via.placeholder.com/40x40/FF0000/FFFFFF?text=VJ" alt="Vietjet Air" class="airline-logo">
+                        <img src="https://www.tripsavvy.com/thmb/-GZ-Zcf9aL7sTOMBNJy0osnlMis=/5472x3648/filters:no_upscale():max_bytes(150000):strip_icc()/thai-vietjet-air-flight-5a827c2e1f4e130037c8dc8d.jpg" alt="Vietjet Air" class="airline-logo">
                         <div class="airline-info">
                             <div class="airline-name">Vietjet Air</div>
                             <div class="flight-route-text">TP HCM (SGN) ↔️ Kuala Lumpur (KUL)</div>
@@ -330,7 +330,7 @@
             <div class="flight-item">
                 <div class="flight-route">
                     <div class="flight-airline">
-                        <img src="https://via.placeholder.com/40x40/FFA500/FFFFFF?text=SC" alt="Scoot" class="airline-logo">
+                        <img src="https://www.aerotime.aero/images/Scoot-Airline-Boeing-787-8-Dreamliner-1600x1000.jpg" alt="Scoot" class="airline-logo">
                         <div class="airline-info">
                             <div class="airline-name">Scoot</div>
                             <div class="flight-route-text">Singapore (SIN) ↔️ TP HCM (SGN)</div>
@@ -349,7 +349,7 @@
             <div class="flight-item">
                 <div class="flight-route">
                     <div class="flight-airline">
-                        <img src="https://via.placeholder.com/40x40/FF0000/FFFFFF?text=VJ" alt="Vietjet Air" class="airline-logo">
+                        <img src="https://www.tripsavvy.com/thmb/-GZ-Zcf9aL7sTOMBNJy0osnlMis=/5472x3648/filters:no_upscale():max_bytes(150000):strip_icc()/thai-vietjet-air-flight-5a827c2e1f4e130037c8dc8d.jpg" alt="Vietjet Air" class="airline-logo">
                         <div class="airline-info">
                             <div class="airline-name">Vietjet Air</div>
                             <div class="flight-route-text">Bangkok (BKK) ↔️ TP HCM (SGN)</div>
@@ -368,7 +368,7 @@
             <div class="flight-item">
                 <div class="flight-route">
                     <div class="flight-airline">
-                        <img src="https://via.placeholder.com/40x40/0066CC/FFFFFF?text=AA" alt="AirAsia" class="airline-logo">
+                        <img src="https://wallpapers.com/images/hd/thai-airways-purple-airplane-9v5zqxguqi8kx3hu.jpg" alt="AirAsia" class="airline-logo">
                         <div class="airline-info">
                             <div class="airline-name">Thai AirAsia</div>
                             <div class="flight-route-text">TP HCM (SGN) ↔️ Bangkok (DMK)</div>
