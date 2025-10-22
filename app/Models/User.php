@@ -21,6 +21,7 @@ class User extends Authenticatable
         'password',
         'phone',
         'address',
+        'role', 
     ];
 
     /**
@@ -34,7 +35,7 @@ class User extends Authenticatable
     ];
 
     /**
-     * Get the attributes that should be cast.
+     * The attributes that should be cast.
      *
      * @return array<string, string>
      */
@@ -75,5 +76,13 @@ class User extends Authenticatable
     public function totalSpent()
     {
         return $this->bookings()->sum('total_price');
+    }
+
+    /**
+     * Check if user is admin
+     */
+    public function isAdmin(): bool
+    {
+        return $this->role === 'admin';
     }
 }
